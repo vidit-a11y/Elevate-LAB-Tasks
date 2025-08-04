@@ -39,11 +39,11 @@ def evaluate_value(val):
 
 def main():
     print("\n CALCULATOR ")
-    print("  ➤ Basic expressions: (a + b) * c")
-    print("  ➤ Square root: sqrt a")
-    print("  ➤ Factorial: fact a")
-    print("  ➤ Percentage: a% of a")
-    print("  ➤ Power: power a b")
+    print("  Basic expressions: (a + b) * c")
+    print("  Square root: sqrt a")
+    print("  Factorial: fact a")
+    print("  Percentage: a% of a")
+    print("  Power: power a b")
     print("Type 'exit' to quit")
 
     while True:
